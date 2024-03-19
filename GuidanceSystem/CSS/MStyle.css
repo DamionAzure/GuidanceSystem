@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Lexend:wght@400&display=swap");
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F4F6FC;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #050A30;
+    margin: 0 auto;
+    padding: 0%;
+}
+
+.LContainer {
+    background-color: #050A30;
+    display: flex;
+    align-items: center;
+    max-width: 100%;
+}
+
+.Logo {
+    width: 100px;
+    height: 100px;
+    background-color: #ccc;
+    margin-right: 20px;
+    margin-bottom: 0%;
+}
+
+.LText {
+    color: #F4F6FC;
+}
+
+.LsText {
+    margin: 0;
+}
+
+.pLText {
+    margin-top: 0;
+}
+
+.CBody {
+    background-color: #050A30;
+}
+
+.Info {
+    background-color: #050A30;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+    padding-bottom: 20px;
+}
+
+.Info p {
+    background-color: #050A30;
+    color: #646568;
+    margin-top: 0;
+    display: inline;
+    padding-left: 90px;
+}
+
+.Info p:last-child {
+    padding-right: 35px;
+}
